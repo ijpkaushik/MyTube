@@ -1,0 +1,14 @@
+{
+  "short_name": "MyTube App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "logo.ico",
+      "type": "image/png"
+    }    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
